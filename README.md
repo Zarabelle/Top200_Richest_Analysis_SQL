@@ -22,25 +22,24 @@ with 200 records. The columns are:
 ## QUESTIONS AND OUTPUTS/ANSWERS TO EACH QUESTION
 
 ## QUESTIONS
-1. Retrieve the 20 richest billionaires.
-![Answer 1](<img width="1928" height="1398" alt="ans_1" src="https://github.com/user-attachments/assets/d4c71ca1-6c5c-402f-b34c-7443f1a7042a" />)
-
-2. Identify the five youngest billionaires. ![Answer 1](<img width="1524" height="734" alt="ans_2" src="https://github.com/user-attachments/assets/d73f2e59-c440-45e9-a3b4-077bdba445d5" />)
-3. Calculate the average age and average net worth.
-4. Identify the five most represented countries.
-5. Calculate the combined net worth of billionaires from each country.
-6. Identify the five industries with the highest number of billionaires.
-7. Find countries with at least five billionaires.
-8. Calculate the total wealth of billionaires younger than 50.
-9. Identify billionaires whose net worth exceeds the overall average net worth.
-10. Identify the industry with the highest average net worth.
+1. Retrieve the 20 richest billionaires. ![Answer 1](ans_1.png)
+2. Identify the five youngest billionaires. ![Answer 2](ans_2.png)
+3. Calculate the average age and average net worth. ![Answer 3](ans_3.png)
+4. Identify the five most represented countries. ![Answer 4](ans_4.png)
+5. Calculate the combined net worth of billionaires from each country. ![Answer 5](ans_5.png)
+6. Identify the five industries with the highest number of billionaires. ![Answer 6](ans_6.png)
+7. Find countries with at least five billionaires. ![Answer 7](ans_7.png)
+8. Calculate the total wealth of billionaires younger than 50. ![Answer 8](ans_8.png)
+9. Identify billionaires whose net worth exceeds the overall average net worth. ![Answer 9](ans_9.png)
+10. Identify the industry with the highest average net worth. ![Answer 10](ans_10.png)
     
 ### A. Basic SELECT, WHERE and ORDER BY
-1. Show only the name, country and industry of all billionaires.
-2. List all billionaires from Nigeria. If there are none, show those from India.
-3. Show billionaires in the Technology industry, ordered by net worth from highest to lowest.
-4. List billionaires aged 80 or older, with their names and ages.
-5. Show billionaires whose names start with the letter M.
+11. Show only the name, country and industry of all billionaires. ![Answer 11](ans_11.png)
+12. List all billionaires from Nigeria. If there are none, show those from India. ![Answer 12a](ans_12a.png)
+12b. ![Answer 12b](ans_1b.png)
+14. Show billionaires in the Technology industry, ordered by net worth from highest to lowest. ![Answer 13](ans_13.png)
+15. List billionaires aged 80 or older, with their names and ages. ![Answer 14](ans_14.png)
+16. Show billionaires whose names start with the letter M.
 
 ### B. Aggregates
 6. Count how many billionaires are in the table.
