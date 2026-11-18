@@ -140,5 +140,5 @@ Oldest age
 
  ![Answer 25](ans_25.png)
 
-NOTE: The queries can be found in the file named Top_Richest_Analysis.sql.
-NOTE: The queries can be found in [Top_Richest_Analysis.sql](Top_Richest_Analysis.sql).
+
+NOTE: The queries can be found in [Top_Richest_Analysis.sql](top_200_billionaire_sql.sql).
